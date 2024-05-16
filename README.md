@@ -1,2 +1,2 @@
 # BirdClef-22
-just some kaggle project I did a day ago
+Kaggle competition involving audio data manipulation and recognition to identify bird calls in an audio file.
